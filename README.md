@@ -63,11 +63,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=maryamAyman06&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryamAyman06&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=maryamAyman06&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryamAyman06&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -109,14 +106,6 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/maryamAyman06/maryamAyman06/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
